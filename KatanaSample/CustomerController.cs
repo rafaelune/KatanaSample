@@ -20,12 +20,12 @@ namespace KatanaSample
             return new Customer()
             {
                 ID = Int32.Parse(customerId),
-                LastName = "Smith",
-                FirstName = "Mary",
+                LastName = "Une",
+                FirstName = "Rafael",
                 HouseNumber = "333",
                 Street = "Main Street NE",
-                City = "Redmond",
-                State = "WA",
+                City = "Sao Jose dos Campos",
+                State = "SP",
                 ZipCode = "98053"
             };
         }
